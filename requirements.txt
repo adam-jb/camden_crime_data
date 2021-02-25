@@ -1,0 +1,9 @@
+sodapy
+pandas
+requests
+geopandas 
+shapely
+plotly.express
+xlrd
+openpyxl
+folium
